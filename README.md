@@ -8,7 +8,7 @@ This page contains answers to Project Euler problems for parameters easier than 
 3. lgpf(n): largest prime factor of n. lgpf(600851475143) = 6857.
 4. The largest palindromic number that is a product of two three digit numbers is 906609.
 5. lcm(1,2,3,...,20) = 232792560.
-6. a = (n * (n + 1)) / 2, b = (n * (n + 1) * (n + n + 1)) / 6, (a * a) - b = 25164150.
+6. a(n) = (n * (n + 1)) / 2, b(n) = (n * (n + 1) * (n + n + 1)) / 6, (a(100) ** 2) - b(100) = 25164150.
 7. This problem can be solved using a variation of Lucy Hedgehog's algorithm for Problem 10. Prime(10001) = 104743.
 8. Largest product of 13 contiguous digits is 23514624000.
 9. The Pythagorean triple with a + b + c = p = 1000 is (200, 375, 425) = 25 * (8, 15, 17). abc = 31875000.

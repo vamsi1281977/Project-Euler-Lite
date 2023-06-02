@@ -9,3 +9,4 @@ This page contains answers to Project Euler problems for parameters easier than 
 4. the largest palindromic number that is a product of two three digit numbers is 906609.
 5. lcm(1,2,3,...,20) = 232792560.
 6. a = (n * (n + 1)) / 2, b = (n * (n + 1) * (n + n + 1)) / 6, (a * a) - b = 25164150.
+7. This problem can be solved using a variation of Lucy Hedgehog's algorithm for Problem 10. Pi(10001) = 104743.

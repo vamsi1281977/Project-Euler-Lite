@@ -7,3 +7,4 @@ This page contains answers to Project Euler problems for parameters easier than 
 2. S(n): sum of even fibonacci numbers not greater than n. S(4000000) = 4613732.
 3. lgpf(n): largest prime factor of n. lgpf(600851475143) = 6857.
 4. the largest palindromic number that is a product of two three digit numbers is 906609.
+5. lcm(1,2,3,...,20) = 232792560.

@@ -11,3 +11,4 @@ This page contains answers to Project Euler problems for parameters easier than 
 6. a = (n * (n + 1)) / 2, b = (n * (n + 1) * (n + n + 1)) / 6, (a * a) - b = 25164150.
 7. This problem can be solved using a variation of Lucy Hedgehog's algorithm for Problem 10. Prime(10001) = 104743.
 8. Largest product of 13 contiguous digits is 23514624000.
+9. The Pythagorean triple with a + b + c = p = 1000 is (200, 375, 425) = 25 * (8, 15, 17). abc = 31875000.

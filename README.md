@@ -14,3 +14,4 @@ This page contains answers to Project Euler problems for parameters easier than 
 9. The Pythagorean triple with a + b + c = p = 1000 is (200, 375, 425) = 25 * (8, 15, 17). abc = 31875000.
 10. Lucy Hedgehog has the best answer to this problem. The Lucy Hedgehog algorithm can be modified to compute Prime_Pi(x). The Prime_Pi(x) can be used to solve problem 7. S(x): sum of all primes not greater than x, S(2000000) = 142913828922.
 11. For this problem we have to visit the following points: (x, y), (x + dx, y + dy), (x + dx + dx, y + dy + dy), (x + dx + dx + dx, y + dy + dy + dy) for (dx, dy) in (1, 0), (0, 1), (1, 1) and (1, (- 1)). We have to make sure the 4 points are in-bounds. The answer is: 70600674.
+12. For this problem, there are solutions based on the fact that GCD(2n, 2n + 1) = GCD(2n + 1, 2n + 2) = 1. NOTE: computing the number of divisors from the prime factorization of a number is well-known fact in elementary number theory. The answer is: 76576500.

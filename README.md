@@ -21,3 +21,4 @@ This page contains answers to Project Euler problems for parameters easier than 
 16. Consider a programming environment with big-integer to solve this problem. The answer is: 1366.
 17. A problem of a different flavor. A dictionary from int -> str, e.g. 1 -> 'one' etc. should help solve the problem. NOTE: there is a recursive structure to translating numbers to words. e.g. 982 = 900 + 82, to_words(982) = to_words(000) . ' and ' . to_words(82). Here '.' means string concatenation. The answer is: 21124.
 18. Take all paths from the root to any internal node. Do we have to consider each and every one of them to solve the problem or only the path with the maximum sum? The answer is: 1074.
+19. Consider using an environment with calendar built in. The answer is: 171. This curiosly happens to be (12 * 100) // 7.

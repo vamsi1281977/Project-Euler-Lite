@@ -20,3 +20,4 @@ This page contains answers to Project Euler problems for parameters easier than 
 15. At any point in a (n + 1) x (n + 1) grid: f(a, b) = f(a - 1, b) + f(a, b - 1), with f(0, b) = 1 = f(a, 0) for 0 <= a,b <= n. The answer is: 137846528820.
 16. Consider a programming environment with big-integer to solve this problem. The answer is: 1366.
 17. A problem of a different flavor. A dictionary from int -> str, e.g. 1 -> 'one' etc. should help solve the problem. NOTE: there is a recursive structure to translating numbers to words. e.g. 982 = 900 + 82, to_words(982) = to_words(000) . ' and ' . to_words(82). Here '.' means string concatenation. The answer is: 21124.
+18. Take all paths from the root to any internal node. Do we have to consider each and every one of them to solve the problem or only the path with the maximum sum? The answeer is: 1074.

@@ -25,3 +25,4 @@ This page contains answers to Project Euler problems for parameters easier than 
 20. Consider using a programming environment with big-integer. The answer is: 648.
 21. Computing the sum of proper divisors of a number from its prime factorization is a well known result in elementary number theory. The answer is: 31626.
 22. A problem of a different flavor. A programming environment with builtin sort function is preferable. The answer is: 871198282.
+23. Solving this problem is easy if you have already solved problem 21. The answer is: 4179871.

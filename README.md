@@ -27,3 +27,4 @@ This page contains answers to Project Euler problems for parameters easier than 
 22. A problem of a different flavor. A programming environment with builtin sort function is preferable. The answer is: 871198282.
 23. Solving this problem is easy if you have already solved problem 21. The answer is: 4179871.
 24. There are ways of solving this problem without enumerating the first million permutations. Simply enumerating the permutations using standard library is enough. Consider a programming environment with a permutations or next_permutation function available. The answer is: 2783915460.
+25. This problem can be solved with big-integers very easily. With some help from WolframAlpha, use this problem as an opportunity to learn how to solve recurrence relations using generating functions. The answer is: 4782.

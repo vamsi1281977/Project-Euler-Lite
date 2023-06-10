@@ -28,3 +28,4 @@ This page contains answers to Project Euler problems for parameters easier than 
 24. Solving this problem is easy if you have already solved problem 21. The answer is: 4179871.
 25. There are ways of solving this problem without enumerating the first million permutations. Simply enumerating the permutations using standard library is enough. Consider a programming environment with a permutations or next_permutation function available. The answer is: 2783915460.
 26. This problem can be solved with big-integers very easily. With some help from WolframAlpha, use this problem as an opportunity to learn how to solve recurrence relations using generating functions. The answer is: 4782.
+162. a) How would you count the number of n-digit hexadecimal numbers with at-least one zero in them? NOTE: Leading zeros are not allowed.

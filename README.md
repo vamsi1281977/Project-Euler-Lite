@@ -23,9 +23,9 @@ This page contains answers to Project Euler problems for parameters easier than 
 18. Problem 018: Take all paths from the root node to any internal node. Do we have to consider each and every one of them to solve the problem or only the path with the maximum sum? The answer is: 1074.
 19. Problem 019: Consider using an environment with calendar built in. The answer is: 171. This curiosly happens to be (12 * 100) // 7.
 20. Problem 020: Consider using a programming environment with big-integer. The answer is: 648.
-21. Computing the sum of proper divisors of a number from its prime factorization is a well known result in elementary number theory. The answer is: 31626.
+21. Problem 021: Computing the sum of proper divisors of a number from its prime factorization is a well known result in elementary number theory. The answer is: 31626.
 22. A problem of a different flavor. A programming environment with builtin sort function is preferable. The answer is: 871198282.
-23. Solving this problem is easy if you have already solved problem 21. The answer is: 4179871.
-24. There are ways of solving this problem without enumerating the first million permutations. Simply enumerating the permutations using standard library is enough. Consider a programming environment with a permutations or next_permutation function available. The answer is: 2783915460.
-25. This problem can be solved with big-integers very easily. With some help from WolframAlpha, use this problem as an opportunity to learn how to solve recurrence relations using generating functions. The answer is: 4782.
+23. Problem 023: Solving this problem is easy if you have already solved problem 21. The answer is: 4179871.
+24. Problem 024: There are ways of solving this problem without enumerating the first million permutations. Simply enumerating the permutations using standard library is enough. Consider a programming environment with a permutations or next_permutation function available. The answer is: 2783915460.
+25. Problem 025: This problem can be solved with big-integers very easily. With some help from WolframAlpha, use this problem as an opportunity to learn how to solve recurrence relations using generating functions. The answer is: 4782.
 26. Problem 162: How would you count the number of n-digit hexadecimal numbers with at-least one zero in them? NOTE: Leading zeros are not allowed.

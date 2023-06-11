@@ -16,13 +16,13 @@ This page contains answers to Project Euler problems for parameters easier than 
 11. Problem 011: We have to visit the following points: (x, y), (x + dx, y + dy), (x + dx + dx, y + dy + dy), (x + dx + dx + dx, y + dy + dy + dy) for (dx, dy) in (1, 0), (0, 1), (1, 1) and (1, (- 1)). We have to make sure the 4 points are in-bounds. The answer is: 70600674.
 12. Problem 012: There are solutions based on the fact that GCD(2n, 2n + 1) = GCD(2n + 1, 2n + 2) = 1. NOTE: computing the number of divisors from the prime factorization of a number is well-known fact in elementary number theory. The answer is: 76576500.
 13. Problem 013: There is no need for big-integer to solve this problem. Adding the first 15 digits of each number should be enough to get the answer: 5537376230.
-14. Simple example demonstrating the usefulness of a technique called memoization. The problem can be solved without memoization, but memoization is going to come in handy for later problems. The answer is: 837799.
-15. At any point in a (n + 1) x (n + 1) grid: f(a, b) = f(a - 1, b) + f(a, b - 1), with f(0, b) = 1 = f(a, 0) for 0 <= a,b <= n. The answer is: 137846528820.
-16. Consider a programming environment with big-integer to solve this problem. The answer is: 1366.
-17. A problem of a different flavor. A dictionary from int -> str, e.g. 1 -> 'one' etc. should help solve the problem. NOTE: there is a recursive structure to translating numbers to words. e.g. 982 = 900 + 82, to_words(982) = to_words(000) . ' and ' . to_words(82). Here '.' means string concatenation. The answer is: 21124.
-18. Take all paths from the root node to any internal node. Do we have to consider each and every one of them to solve the problem or only the path with the maximum sum? The answer is: 1074.
-19. Consider using an environment with calendar built in. The answer is: 171. This curiosly happens to be (12 * 100) // 7.
-20. Consider using a programming environment with big-integer. The answer is: 648.
+14. Problem 014: Simple example demonstrating the usefulness of a technique called memoization. The problem can be solved without memoization, but memoization is going to come in handy for later problems. The answer is: 837799.
+15. Problem 015: At any point in a (n + 1) x (n + 1) grid: f(a, b) = f(a - 1, b) + f(a, b - 1), with f(0, b) = 1 = f(a, 0) for 0 <= a,b <= n. The answer is: 137846528820.
+16. Problem 016: Consider a programming environment with big-integer to solve this problem. The answer is: 1366.
+17. Problem 017: A problem of a different flavor. A dictionary from int -> str, e.g. 1 -> 'one' etc. should help solve the problem. NOTE: there is a recursive structure to translating numbers to words. e.g. 982 = 900 + 82, to_words(982) = to_words(000) . ' and ' . to_words(82). Here '.' means string concatenation. The answer is: 21124.
+18. Problem 018: Take all paths from the root node to any internal node. Do we have to consider each and every one of them to solve the problem or only the path with the maximum sum? The answer is: 1074.
+19. Problem 019: Consider using an environment with calendar built in. The answer is: 171. This curiosly happens to be (12 * 100) // 7.
+20. Problem 020: Consider using a programming environment with big-integer. The answer is: 648.
 21. Computing the sum of proper divisors of a number from its prime factorization is a well known result in elementary number theory. The answer is: 31626.
 22. A problem of a different flavor. A programming environment with builtin sort function is preferable. The answer is: 871198282.
 23. Solving this problem is easy if you have already solved problem 21. The answer is: 4179871.

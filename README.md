@@ -3,7 +3,7 @@ Answers to lite version of Project Euler problems.
 
 This page contains answers to Project Euler problems for parameters easier than the ones at Project Euler, hence the lite. For answers to Project Euler problems, please visit: https://github.com/luckytoilet/projecteuler-solutions.
 
-For problems we were able to solve ourselves or could find resources on the internet with solutions (for example: https://euler.stephan-brumme.com/, mathblog site (not available anymore), etc.) we have provided the answer and a brief explanation as to how to solve the problem. For really hard problems with no internet resources to help, we will provide a lite answer.
+For problems we were able to solve ourselves or could find resources on the internet with hints and/or solutions (for example: https://euler.stephan-brumme.com/, mathblog site (not available anymore), etc.) we have provided the answer and a brief explanation as to how to solve the problem. For really hard problems with no internet resources to help, we will provide a lite answer.
 
 NOTE: This page would not be possible without LuckyToilet's Project Euler Solutions page. I sincerely thank LuckyToilet and others who have contributed to the Project Euler Solutions page and other resources on the internet with hints and/or solutions to Project Euler problems, so that every one no matter what their mathematical or programming skills could enjoy Project Euler problems. 
 

@@ -23,7 +23,7 @@ NOTE: This page would not be possible without LuckyToilet's Project Euler Soluti
 14. Problem 014: Simple example demonstrating the usefulness of a technique called memoization. The problem can be solved without memoization, but memoization is going to come in handy for later problems. The answer is: 837799.
 15. Problem 015: At any point in a (n + 1) x (n + 1) grid: f(a, b) = f(a - 1, b) + f(a, b - 1), with f(0, b) = 1 = f(a, 0) for 0 <= a,b <= n. The answer is: 137846528820.
 16. Problem 016: Consider a programming environment with big-integer to solve this problem. The answer is: 1366.
-17. Problem 017: A problem of a different flavor. A dictionary from int -> str, e.g. 1 -> 'one' etc. should help solve the problem. NOTE: there is a recursive structure to translating numbers to words. e.g. 982 = 900 + 82, to_words(982) = to_words(000) . ' and ' . to_words(82). Here '.' means string concatenation. The answer is: 21124.
+17. Problem 017: A problem of a different flavor. A dictionary from int -> str, e.g. 1 -> 'one' etc. should help solve the problem. NOTE: there is a recursive structure to translating numbers to words. e.g. 982 = 900 + 82, to_words(982) = to_words(900) . ' and ' . to_words(82). Here '.' means string concatenation. The answer is: 21124.
 18. Problem 018: Take all paths from the root node to any internal node. Do we have to consider each and every one of them to solve the problem or only the path with the maximum sum? The answer is: 1074.
 19. Problem 019: Consider using an environment with calendar built in. The answer is: 171. This curiosly happens to be (12 * 100) // 7.
 20. Problem 020: Consider using a programming environment with big-integer. The answer is: 648.

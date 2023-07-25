@@ -10,9 +10,9 @@ NOTE: This page would not be possible without LuckyToilet's Project Euler Soluti
 1. Problem 001: $S(n)$: sum of all multiples of $3$ or $5$ less than $n$. $S(1000) = 233168$. Can be solved using arithmetic progressions and the principle of inclusion-exclusion.
 2. Problem 002: $S(n)$: sum of even fibonacci numbers not greater than $n$. $S(4000000) = 4613732$. Can be solved by observing the pattern in $0, 1, 1, 2, 3, 5, 8, 13, 21, 34, \dots$ NOTE: $E, O, O, E, O, O, E, \dots$ where $E$ means even and $O$ means odd.
 3. Problem 003: $lgpf(n)$: largest prime factor of $n$. $lgpf(600851475143) = 6857$. NOTE: to compute the prime-factors of $N$, (naively) we only need to check $2$ and all odd numbers in the interval $[3, \lfloor \sqrt{N} \rfloor]$.
-4. Problem 004: The largest palindromic number that is a product of two three digit numbers is 906609.
-5. Problem 005: lcm(1,2,3,...,20) = 232792560.
-6. Problem 006: $a(n)$: sum of the first $n$ positive integers = $\frac{n \times (n + 1)}{2}$, $b(n)$: sum of the squares of the first $n$ positive integers = $\frac{n \times (n + 1) \times (n + n + 1)}{6}$, $a(100)^{2} - b(100) = 25164150$.
+4. Problem 004: The largest palindromic number that is a product of two three digit numbers is $906609$.
+5. Problem 005: $lcm(1,2,3,...,20) = 232792560$.
+6. Problem 006: $a(n)$: sum of the first $n$ positive integers = $\frac{n \times (n + 1)}{2}$, $b(n)$: sum of the squares of the first $n$ positive integers = $\frac{n \times (n + 1) \times (2n + 1)}{6}$, $a(100)^{2} - b(100) = 25164150$.
 7. Problem 007: This problem can be solved using a variation of Lucy Hedgehog's algorithm for Problem 10. Prime(10001) = 104743.
 8. Problem 008: Largest product of 13 contiguous digits is 23514624000.
 9. Problem 009: The Pythagorean triple with a + b + c = p = 1000 is (200, 375, 425) = 25 * (8, 15, 17). abc = 31875000.

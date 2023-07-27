@@ -7,7 +7,7 @@ For problems we were able to solve ourselves or could find resources on the inte
 
 NOTE: This page would not be possible without LuckyToilet's Project Euler Solutions page. I sincerely thank LuckyToilet and others who have contributed to the Project Euler Solutions page and other resources on the internet with hints and/or solutions to Project Euler problems, so that every one no matter what their mathematical or programming skills could enjoy Project Euler problems. 
 
-1. Problem 001: $S(n)$: sum of all multiples of $3$ or $5$ less than $n$. $S(1000) = 233168$. Can be solved using arithmetic progressions and the principle of inclusion-exclusion.
+1. Problem 001: $S(n)$: sum of all multiples of $3$ or $5$ less than $n$. $S(1000) = 233168$. Can be solved using arithmetic progressions and the principle of inclusion-exclusion. In fact, $S(10^{n})$ can be expressed in string form using a regular expression: $2.3^{n - 1}.1.6^{n - 2}.8$; alternatively: $S(n) = (2 \times 10^{2n - 1}) + (3 \times R(n - 1) \times 10^{n}) + 10^{n - 1} + (6 \times R(n - 2) \times 10) + 8$, where $R(k)$ is the $k^{th}$ rep-unit.
 2. Problem 002: $S(n)$: sum of even fibonacci numbers not greater than $n$. $S(4000000) = 4613732$. Can be solved by observing the pattern in $0, 1, 1, 2, 3, 5, 8, 13, 21, 34, \dots$ NOTE: $E, O, O, E, O, O, E, \dots$ where $E$ means even and $O$ means odd.
 3. Problem 003: $lgpf(n)$: largest prime factor of $n$. $lgpf(600851475143) = 6857$. NOTE: to compute the prime-factors of $N$, (naively) we only need to check $2$ and all odd numbers in the interval $[3, \lfloor \sqrt{N} \rfloor]$.
 4. Problem 004: The largest palindromic number that is a product of two three digit numbers is $906609$.

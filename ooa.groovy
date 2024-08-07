@@ -16,7 +16,7 @@ class ooa {
 
   def answer
 
-  static void main(args) {
+  static def main(args) {
     def a = new ooa(1000, 3, 5)
     println(a.answer)
   }

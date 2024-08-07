@@ -1,1 +1,1 @@
-Hints.md is a file containing hints to solve Project Euler problems. PEz32.md is a file containing versions of Project Euler problems that can be solved using only 32 bit integer arithmetic.
+Hints.md is a file containing hints to solve Project Euler problems. PEz32.md is a file containing versions of Project Euler problems that can be solved using only 32 bit integer arithmetic. The .groovy files contain solutions to PEz32 problems in Groovy. The naming convention of the .groovy files should be straight-forward to figure out!

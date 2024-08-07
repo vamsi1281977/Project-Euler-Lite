@@ -19,7 +19,7 @@ class oob {
   
   def answer
   
-  static void main(args) {
+  static def main(args) {
     def a = new oob(4000000)
     println(a.answer)
   }

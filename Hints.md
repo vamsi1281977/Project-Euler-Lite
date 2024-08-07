@@ -1,4 +1,4 @@
-# Project-Euler-Lite
+# Project Euler Hints
 Answers to lite version of Project Euler problems.
 
 This page contains answers to Project Euler problems for parameters easier than the ones at Project Euler, hence the lite. For answers to Project Euler problems, please visit: https://github.com/lucky-bai/projecteuler-solutions.

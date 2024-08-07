@@ -4,7 +4,7 @@ class ooa {
   }
 
   def solve(a, b, c) {
-    def d = 0L
+    def d = 0
     for (def e = 1; e < a; e = e + 1) {
       def f = ((e % b) == 0)
       def g = ((e % c) == 0)
